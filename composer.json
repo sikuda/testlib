@@ -17,7 +17,7 @@
         "empty example lib"
     ],
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "name": "sikuda/testlib",
     "repositories": [
         {
@@ -26,5 +26,5 @@
         }
     ],
     "type": "library",
-    "version": "0.0.1"
+    "version": "1.0.0"
 }
