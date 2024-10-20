@@ -1,15 +1,8 @@
 {
-    "name": "sikuda/testlib",
-    "type": "library",
-    "version": "0.0.1",
-    "description": "Test lib for PHP",
-    "keywords": ["test","empty example lib"],
-    "license": "MIT",
-    "homepage": "https://github.com/sikuda/test_lib",
-    "repositories": [
+    "authors": [
         {
-            "type": "vcs",
-            "url":  "https://github.com/sikuda/testlib.git"
+            "name": "Sergey Kudashkin",
+            "email": "sikuda@yandex.ru"
         }
     ],
     "autoload": {
@@ -17,11 +10,21 @@
             "Sikuda\\Testlib\\": "src/"
         }
     },
+    "description": "Test lib for PHP",
+    "homepage": "https://github.com/sikuda/test_lib",
+    "keywords": [
+        "test",
+        "empty example lib"
+    ],
+    "license": "MIT",
     "minimum-stability": "dev",
-    "authors": [
+    "name": "sikuda/testlib",
+    "repositories": [
         {
-            "name": "Sergey Kudashkin",
-            "email": "sikuda@yandex.ru"
+            "type": "github",
+            "url": "https://github.com/sikuda/testlib.git"
         }
-    ]
+    ],
+    "type": "library",
+    "version": "0.0.1"
 }
