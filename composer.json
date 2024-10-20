@@ -6,6 +6,12 @@
     "keywords": ["test","empty example lib"],
     "license": "MIT",
     "homepage": "https://github.com/sikuda/test_lib",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/sikuda/testlib.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Sikuda\\Testlib\\": "src/"
