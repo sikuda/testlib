@@ -1,0 +1,21 @@
+{
+    "name": "sikuda/testlib",
+    "type": "library",
+    "version": "0.0.1",
+    "description": "Test lib for PHP",
+    "keywords": ["test","empty example lib"],
+    "license": "MIT",
+    "homepage": "https://github.com/sikuda/test_lib",
+    "autoload": {
+        "psr-4": {
+            "Sikuda\\Testlib\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Sergey Kudashkin",
+            "email": "sikuda@yandex.ru"
+        }
+    ]
+}
