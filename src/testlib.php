@@ -1,7 +1,12 @@
 <?php
-namespace sikuda\test;
+namespace Sikuda\Testlib;
 
-function hello(){
-    echo 'Hello';
+
+class TestLib
+{
+    public function hello(){
+        echo 'Hello';
+    }
+
 }
 
