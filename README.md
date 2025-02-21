@@ -1,1 +1,1 @@
-Test empty library for composer
+Test empty library for composer v2
