@@ -4,7 +4,7 @@ Test empty library for composer v2
    composer require sikuda\testlib
 
 2. Make php file in project
-<?php
+<-?-php
 declare(strict_types = 1);
 
 namespace Sikuda\TestlibProject;
